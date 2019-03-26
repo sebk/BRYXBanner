@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1000"
+   LastUpgradeVersion = "1020"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1F9AC92037839D210A41BA5786E79D5B"
+               BlueprintIdentifier = "F7B9BA720524B18FAEE6488742E932E9"
                BuildableName = "BRYXBanner.framework"
                BlueprintName = "BRYXBanner"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1F9AC92037839D210A41BA5786E79D5B"
+            BlueprintIdentifier = "F7B9BA720524B18FAEE6488742E932E9"
             BuildableName = "BRYXBanner.framework"
             BlueprintName = "BRYXBanner"
             ReferencedContainer = "container:Pods.xcodeproj">
